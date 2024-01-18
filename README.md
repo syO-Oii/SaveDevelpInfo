@@ -36,3 +36,25 @@ excalidraw : subnet, nat gateway, bastion host 같은 것들 신경안쓰고 다
   - 대시보드를 통해 프로젝트 진행 상황 파악 가능
 
 * 슬랙(Slack)
+
+
+
+개발자 블로그로 유명한 velog(schema 정의이나 별반 차이없음)
+
+https://github.com/velog-io/velog/blob/main/packages/velog-prisma/prisma/schema.prisma
+
+오키 ERD
+
+https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx
+
+
+[블로그]
+향로님 : https://jojoldu.tistory.com/
+
+
+
+
+서비스 운영에 대한 지식(도서)
+웹 사이트 최적화 기법 : https://search.shopping.naver.com/book/search?bookTabType=ALL&pageIndex=1&pageSize=40&query=%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EA%B8%B0%EB%B2%95&sort=REL
+대규모 서비스를 지탱하는 기술 : https://search.shopping.naver.com/book/catalog/32466714143
+서버/인프라를 지탱하는 기술 : https://search.shopping.naver.com/book/catalog/32476026218
