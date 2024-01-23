@@ -51,6 +51,8 @@ https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx
 [블로그]
 향로님 : https://jojoldu.tistory.com/
 
+미니 은행 프로젝트 : https://velog.io/@hyorimm/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EB%8C%80%EC%B6%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%EC%9E%91%EC%A0%84
+카드 추천 프로젝트 : https://velog.io/@mudidu/%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B9%B4%EB%93%9C%EB%AA%BD%ED%82%A4-%ED%9A%8C%EA%B3%A0
 
 
 
