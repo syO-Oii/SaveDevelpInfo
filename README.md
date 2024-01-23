@@ -58,3 +58,12 @@ https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx
 웹 사이트 최적화 기법 : https://search.shopping.naver.com/book/search?bookTabType=ALL&pageIndex=1&pageSize=40&query=%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EA%B8%B0%EB%B2%95&sort=REL
 대규모 서비스를 지탱하는 기술 : https://search.shopping.naver.com/book/catalog/32466714143
 서버/인프라를 지탱하는 기술 : https://search.shopping.naver.com/book/catalog/32476026218
+
+# 백엔드 추천 자격증
+ - 정보처리기사
+
+# 핀테크 추천 자격증
+ - SQLD
+ - ADSP (쌩신입)
+ - 빅데이터 분석기사 (ADSP 취득 이후)
+
