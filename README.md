@@ -59,10 +59,13 @@ https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx
 대규모 서비스를 지탱하는 기술 : https://search.shopping.naver.com/book/catalog/32466714143
 서버/인프라를 지탱하는 기술 : https://search.shopping.naver.com/book/catalog/32476026218
 
+
 # 백엔드 추천 자격증
  - 정보처리기사
 
+
 # 핀테크 추천 자격증
+ * DB 관련 자격증이 많이 중요함 
  - SQLD
  - ADSP (쌩신입)
  - 빅데이터 분석기사 (ADSP 취득 이후)
