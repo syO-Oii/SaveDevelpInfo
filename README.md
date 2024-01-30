@@ -38,6 +38,9 @@ excalidraw : subnet, nat gateway, bastion host 같은 것들 신경안쓰고 다
 * 슬랙(Slack)
 
 
+자바 스프링 팁
+https://wikidocs.net/115235
+
 
 개발자 블로그로 유명한 velog(schema 정의이나 별반 차이없음)
 
