@@ -38,18 +38,19 @@ excalidraw : subnet, nat gateway, bastion host 같은 것들 신경안쓰고 다
 * 슬랙(Slack)
 
 
-자바 스프링 팁
+<h3>자바 스프링 팁</h3>
 https://wikidocs.net/115235
 
 
-개발자 블로그로 유명한 velog(schema 정의이나 별반 차이없음)
-
+<h3>개발자 블로그로 유명한 velog(schema 정의이나 별반 차이없음)</h3>
 https://github.com/velog-io/velog/blob/main/packages/velog-prisma/prisma/schema.prisma
 
-오키 ERD
 
+<h3>오키 ERD</h3>
 https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx
 
+<h3>스터디 정보</h3>
+https://github.com/whiteship/live-study/issues?q=is%3Aissue+
 
 [블로그]
 향로님 : https://jojoldu.tistory.com/
