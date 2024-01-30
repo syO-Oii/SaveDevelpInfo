@@ -1,16 +1,17 @@
 # SaveDevelpInfo
 개발하면서 필요한 정보 저장
 
-1. ERD 다이어그램
-https://dbdiagram.io/home
-https://excalidraw.com/
+1. 개발 툴
 
+### 1) ERD 다이어그램
+* dbDiagram : https://dbdiagram.io/home
+* excalidraw : https://excalidraw.com/
 
-2. 개발 아키텍쳐
-draw.io : subnet을 구체적으로 신경써서 설계했을 때 추천
-excalidraw : subnet, nat gateway, bastion host 같은 것들 신경안쓰고 다 퍼블릭으로 올렸을
+### 2) 개발 아키텍쳐
+* draw.io : subnet을 구체적으로 신경써서 설계했을 때 추천
+* excalidraw : subnet, nat gateway, bastion host 같은 것들 신경안쓰고 다 퍼블릭으로 올렸을
 
-
+### 3) 협업 도구
 * 피그마(Figma)
   - 구현하고 싶은 서비스를 시각적으로 확인할 수 있도록 도와주는 툴
   - 공동 작업 가능, 실시간 변화 상황 공유 가능
@@ -77,4 +78,5 @@ https://github.com/whiteship/live-study/issues?q=is%3Aissue+
  - 빅데이터 분석기사 (ADSP 취득 이후)
 
 <H3>자소서</H3>
+
 [모든 회사에 어필 할 수 있는 지원 동기와 목표설정 방법](https://dataportal.kr/%EB%AA%A8%EB%93%A0-%ED%9A%8C%EC%82%AC%EC%97%90-%EC%96%B4%ED%95%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%EC%9B%90-%EB%8F%99%EA%B8%B0%EC%99%80-%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95/)
