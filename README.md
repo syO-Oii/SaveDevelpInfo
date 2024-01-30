@@ -41,27 +41,26 @@ excalidraw : subnet, nat gateway, bastion host 같은 것들 신경안쓰고 다
 [자바 스프링 팁](https://wikidocs.net/115235)
 
 
-개발자 블로그로 유명한 velog(schema 정의이나 별반 차이없음)(https://github.com/velog-io/velog/blob/main/packages/velog-prisma/prisma/schema.prisma)
+[개발자 블로그로 유명한 velog](https://github.com/velog-io/velog/blob/main/packages/velog-prisma/prisma/schema.prisma)
 
 
-<h3>오키 ERD</h3>
-https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx
+[오키 ERD](https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx)
 
 <h3>스터디 정보</h3>
 https://github.com/whiteship/live-study/issues?q=is%3Aissue+
 
 [블로그]
-향로님(https://jojoldu.tistory.com/)
+[향로님](https://jojoldu.tistory.com/)
 
-미니 은행 프로젝트(https://velog.io/@hyorimm/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EB%8C%80%EC%B6%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%EC%9E%91%EC%A0%84)
-카드 추천 프로젝트(https://velog.io/@mudidu/%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B9%B4%EB%93%9C%EB%AA%BD%ED%82%A4-%ED%9A%8C%EA%B3%A0)
+[미니 은행 프로젝트](https://velog.io/@hyorimm/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EB%8C%80%EC%B6%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8C%80%EC%9E%91%EC%A0%84)
+[카드 추천 프로젝트](https://velog.io/@mudidu/%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B9%B4%EB%93%9C%EB%AA%BD%ED%82%A4-%ED%9A%8C%EA%B3%A0)
 
 
 
 <h3>서비스 운영에 대한 지식(도서)</h3>
-웹 사이트 최적화 기법(https://search.shopping.naver.com/book/search?bookTabType=ALL&pageIndex=1&pageSize=40&query=%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EA%B8%B0%EB%B2%95&sort=REL)
-대규모 서비스를 지탱하는 기술(https://search.shopping.naver.com/book/catalog/32466714143)
-서버/인프라를 지탱하는 기술(https://search.shopping.naver.com/book/catalog/32476026218)
+[웹 사이트 최적화 기법](https://search.shopping.naver.com/book/search?bookTabType=ALL&pageIndex=1&pageSize=40&query=%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EA%B8%B0%EB%B2%95&sort=REL)
+[대규모 서비스를 지탱하는 기술](https://search.shopping.naver.com/book/catalog/32466714143)
+[서버/인프라를 지탱하는 기술](https://search.shopping.naver.com/book/catalog/32476026218)
 
 
 # 백엔드 추천 자격증
@@ -75,4 +74,4 @@ https://github.com/whiteship/live-study/issues?q=is%3Aissue+
  - 빅데이터 분석기사 (ADSP 취득 이후)
 
 <H3>자소서</H3>
- 모든 회사에 어필 할 수 있는 지원 동기와 목표설정 방법(https://dataportal.kr/%EB%AA%A8%EB%93%A0-%ED%9A%8C%EC%82%AC%EC%97%90-%EC%96%B4%ED%95%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%EC%9B%90-%EB%8F%99%EA%B8%B0%EC%99%80-%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95/)
+[모든 회사에 어필 할 수 있는 지원 동기와 목표설정 방법](https://dataportal.kr/%EB%AA%A8%EB%93%A0-%ED%9A%8C%EC%82%AC%EC%97%90-%EC%96%B4%ED%95%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%EC%9B%90-%EB%8F%99%EA%B8%B0%EC%99%80-%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95/)
