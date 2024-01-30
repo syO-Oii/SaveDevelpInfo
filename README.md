@@ -59,7 +59,7 @@ https://github.com/whiteship/live-study/issues?q=is%3Aissue+
 
 
 
-# 4. 도서
+# 3. 도서
 
 ### 1) 서비스 운영 지식
 [웹 사이트 최적화 기법](https://search.shopping.naver.com/book/search?bookTabType=ALL&pageIndex=1&pageSize=40&query=%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EA%B8%B0%EB%B2%95&sort=REL)
@@ -69,7 +69,7 @@ https://github.com/whiteship/live-study/issues?q=is%3Aissue+
 [서버/인프라를 지탱하는 기술](https://search.shopping.naver.com/book/catalog/32476026218)
 
 
-# 자격증
+# 4. 자격증
 ### 1) 백엔드 추천 자격증
  - 정보처리기사
  - 리눅스 마스터
