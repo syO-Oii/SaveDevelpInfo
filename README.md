@@ -67,7 +67,7 @@ https://www.erdcloud.com/d/PK2Ae7d4asTRqHpHx
 
 # 백엔드 추천 자격증
  - 정보처리기사
-
+ - 리눅스 마스터
 
 # 핀테크 추천 자격증
  * DB 관련 자격증이 많이 중요함 
