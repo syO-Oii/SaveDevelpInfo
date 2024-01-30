@@ -58,8 +58,11 @@ https://github.com/whiteship/live-study/issues?q=is%3Aissue+
 
 
 <h3>서비스 운영에 대한 지식(도서)</h3>
+
 [웹 사이트 최적화 기법](https://search.shopping.naver.com/book/search?bookTabType=ALL&pageIndex=1&pageSize=40&query=%EC%9B%B9%20%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EA%B8%B0%EB%B2%95&sort=REL)
+
 [대규모 서비스를 지탱하는 기술](https://search.shopping.naver.com/book/catalog/32466714143)
+
 [서버/인프라를 지탱하는 기술](https://search.shopping.naver.com/book/catalog/32476026218)
 
 
