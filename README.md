@@ -6,6 +6,7 @@
 ### 1) ERD 다이어그램
 * dbDiagram : https://dbdiagram.io/home
 * excalidraw : https://excalidraw.com/
+* aws 아키텍쳐 다이어그램 : https://aws.amazon.com/ko/architecture/icons/
 
 ### 2) 개발 아키텍쳐
 * draw.io : subnet을 구체적으로 신경써서 설계했을 때 추천
