@@ -17,6 +17,9 @@
   - 구현하고 싶은 서비스를 시각적으로 확인할 수 있도록 도와주는 툴
   - 공동 작업 가능, 실시간 변화 상황 공유 가능
   - 페이지 세부 내용을 기획하고 디자인하면서 컨셉을 잡을 때 필수
+  - 와이어프레임
+      - 프리키트1 : https://www.figma.com/templates/wireframe-kits/
+      - 프리키트2 : https://www.figma.com/community/file/769801235736984714
 
 * 노션(Notion)
   - 회의록, 프로젝트 내용 기록
